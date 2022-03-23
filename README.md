@@ -3,10 +3,12 @@
 #### a full stack developer, programming instructor, public speaker, and peace lover.
 
 💬 That's me:
+- I’m from Burma, currently living in the Republic of Korea for about 5 years
+- I'm a classical boy who loves to read and paint
 - I like music and sing in private
 - I want to travel around the world
-- I'm a classical boy who loves to read and paint
-- I’m from Burma, currently living in the Republic of Korea for about 5 years
+
+
 
 🙆 Let's stay in touch: 
 - [Twitter](https://twitter.com/yenaingmm)
