@@ -1,4 +1,4 @@
-### Hello 👋 , I’m YE NAING, 
+### 👋 Hello, I’m YE NAING, 
 
 #### a full stack developer, programming instructor, public speaker, and peace lover.
 
