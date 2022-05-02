@@ -8,9 +8,14 @@
 - I like music and sing in private
 - I want to travel around the world
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yenaing-dev&show_icons=true&theme=maroongold)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenaing-dev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=yenaing-dev&show_icons=true&theme=buefy&count_private=true&hide=prs&include_all_commits=true&langs_count=10&hide_border=true" alt="YE NAING's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenaing-dev&layout=compact&theme=buefy&hide_border=true&langs_count=12" /></a> |
+| ------------- | ------------- |
 
 
 🙆 Let's stay in touch: 
