@@ -9,6 +9,9 @@
 - I want to travel around the world
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yenaing-dev&show_icons=true&theme=maroongold)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yenaing-dev&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 🙆 Let's stay in touch: 
 - [Twitter](https://twitter.com/yenaingmm)
