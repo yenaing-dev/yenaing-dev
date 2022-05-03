@@ -1,6 +1,7 @@
-### 👋 Hello, I’m YE NAING, 
+<h3 align='center'> 👋 Hello, I’m YE NAING, </h3>
 
-#### a full stack developer, programming instructor, public speaker, and peace lover.
+<h4 align='center'> A full stack developer, programming instructor, public speaker, and peace lover.</h4>
+
 
 💬 That's me:
 - I’m from Burma, currently living in the Republic of Korea for about 5 years
