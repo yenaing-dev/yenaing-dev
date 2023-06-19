@@ -17,7 +17,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=yenaing-dev&show_icons=true&theme=buefy&count_private=true&hide=prs,issues&include_all_commits=true&langs_count=100&hide_border=true" alt="YE NAING's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenaing-dev&layout=compact&theme=buefy&hide_border=true&langs_count=15" alt="YE NAING's most used language" /> |
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=yenaing-dev&show_icons=true&theme=buefy&count_private=true&hide=prs&include_all_commits=true&langs_count=100&hide_border=true" alt="YE NAING's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenaing-dev&layout=compact&theme=buefy&hide_border=true&langs_count=15" alt="YE NAING's most used language" /> |
 | ------------- | ------------- |
 
 
