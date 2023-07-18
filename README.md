@@ -20,6 +20,8 @@
 |<img align="center" src="https://github-readme-stats.vercel.app/api?username=yenaing-dev&show_icons=true&theme=buefy&count_private=true&hide=prs&include_all_commits=true&langs_count=100&hide_border=true" alt="YE NAING's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenaing-dev&layout=compact&theme=buefy&hide_border=true&langs_count=15" alt="YE NAING's most used language" /> |
 | ------------- | ------------- |
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 
 🙆 Let's stay in touch: 
 - [Twitter](https://twitter.com/yenaingmm)
