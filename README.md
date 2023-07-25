@@ -22,12 +22,13 @@
 | ------------- | ------------- |
 -->
 
+<!--
 🙆 Let's stay in touch: 
 - [Twitter](https://twitter.com/yenaingmm)
 - [Instagram](https://www.instagram.com/diaryofyenaingofficial)
 - [LinkedIn](https://www.linkedin.com/in/yenaing)
 - [Facebook](https://www.facebook.com/diaryofyenaingofficial)
- 
+ -->
 
 
 <!--
