@@ -26,7 +26,7 @@ talk through architecture and tradeoffs in detail — [email me](mailto:contact@
 ### Talks
 
 - **Potential Benefits and Challenges of AI** — panelist, Youth IGF Myanmar 2023, June 2023
-  ([announcement](https://www.facebook.com/share/v/1F6DiYHjr8/))
+  ([announcement](https://lnkd.in/p/gfw6PUVf))
 - **Break down borders, Broaden your career** — Women in AI Myanmar, Knowledge Sharing Event, May 2023
   ([event](https://www.eventbrite.ie/e/wai-work-knowledge-sharing-event-tickets-633941976517))
 
