@@ -1,71 +1,60 @@
-<h3 align='center'> 👋 Hello, I’m YE NAING, </h3>
+# Ye Naing
 
-<h4 align='center'> A full stack developer, programming instructor, public speaker, and peace lover.</h4>
+Full-stack developer and engineering team lead at [INABOOTH](https://inabooth.io) in Seoul. I also teach programming and speak publicly about it.
 
+I love sharing what I know and learning from people on the same wavelength.
 
-💬 That's me:
-- I’m from Burma, currently living in the Republic of Korea over 7 years
-- I'm a classical boy who loves to read and paint
-- I like music and sing in private
-- I want to travel around the world
+---
 
-🌍 Been to: 🇹🇼🇲🇳🇹🇭🇯🇵🇻🇳🇨🇳🇰🇷🇸🇬🇲🇲
+### What I work on
 
-✈️ Expected to visit: 🇭🇰🇲🇴🇵🇭🇲🇾
+I lead engineering at INABOOTH, a character IP platform company, where I'm responsible for
+technical execution across both our research work and our commercial products.
 
-I have experienced on:
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/nextjs/nextjs.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code> 
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/rails/rails.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/oauth2/oauth2.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/nginx/nginx.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/figma/figma.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/cloudflare/cloudflare.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/chatgpt/chatgpt.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/google-workspace/google-workspace.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/slack/slack.png"></code>
-<code><img height="15" src="https://raw.githubusercontent.com/github/explore/main/topics/notion/notion.png"></code>
+<!-- REPLACE THE PARAGRAPH BELOW. Keep it architecture-level: the shape of the problem and
+     the kind of system you built, never internal metrics, roadmap, or unannounced work.
+     A useful test: would you say this sentence out loud at a meetup? -->
 
-<!--
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=yenaing-dev&show_icons=true&theme=buefy&count_private=true&hide=prs&include_all_commits=true&langs_count=100&hide_border=true" alt="YE NAING's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yenaing-dev&layout=compact&theme=buefy&hide_border=true&langs_count=15" alt="YE NAING's most used language" /> |
-| ------------- | ------------- |
--->
+Most of my work sits at the intersection of content systems and verification — designing
+services that handle character IP assets end to end, from ingestion through to how creators
+and licensees actually use them. Day to day that means API design, data modeling, and the
+unglamorous work of making a start-up team ship reliably.
 
-<!--
-🙆 Let's stay in touch: 
-- [Twitter](https://twitter.com/yenaingmm)
-- [Instagram](https://www.instagram.com/diaryofyenaingofficial)
-- [LinkedIn](https://www.linkedin.com/in/yenaing)
-- [Facebook](https://www.facebook.com/diaryofyenaingofficial)
- -->
+Most of this code is private, so my public profile is thinner than my actual output. Happy to
+talk through architecture and tradeoffs in detail — [email me](mailto:contact@yenaing.com).
+
+### Talks
+
+- **Potential Benefits and Challenges of AI** — panelist, Youth IGF Myanmar 2023, June 2023
+  ([announcement](https://www.facebook.com/share/v/1F6DiYHjr8/))
+- **Break down borders, Broaden your career** — Women in AI Myanmar, Knowledge Sharing Event, May 2023
+  ([event](https://www.eventbrite.ie/e/wai-work-knowledge-sharing-event-tickets-633941976517))
+
+<!-- Swap the Facebook link for a session recording if yIGF posted one.
+     Add the WAI title and a phrase on what you covered. -->
 
 
-<!--
-**yenaing-dev/yenaing-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[yenaing.com](https://yenaing.com) · [ORCID](https://orcid.org/0000-0002-2257-0915)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+
+**Daily:** TypeScript · Next.js (App Router) · React · PostgreSQL with Drizzle ORM · Tailwind + Radix
+
+**Also work in:** Firebase (App Hosting, Functions, Data Connect) · Google Cloud · Effect · MySQL · pnpm/Turborepo monorepos
+
+**Regularly build against:** Slack, Notion, and Google Workspace APIs
+
+<!-- Add Python back if your R&D or personal work uses it — none of the three
+     manifests did, but steg_ecc is Python. -->
+
+
+---
+
+### Elsewhere
+
+From Burma 🇲🇲, in South Korea 🇰🇷 for 8+ years. An ordinary boy who reads and paints,
+sings in private, and wants to travel everywhere.
+
+📍 Seoul (UTC+9) · ✉️ contact@yenaing.com
